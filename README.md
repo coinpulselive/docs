@@ -1,4 +1,4 @@
-#Real-time & Historical Crypto Market Data APIs
+# Real-time & Historical Crypto Market Data APIs
 
 Coinpulse provides no bullshit, developer-friendly API for cryptocurrency data
 
